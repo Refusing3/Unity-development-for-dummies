@@ -1,2 +1,2 @@
-# Unity-development-for-dummies
-Разработчик Игр на Unity Geekbrains 
+# Unity-development-GeekBrains
+урок 3 Основы геймдизайна
